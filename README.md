@@ -24,5 +24,5 @@ LED Matrix Guide
 - https://www.makerguides.com/max7219-led-dot-matrix-display-arduino-tutorial/
 
 
-NTPClient to get world time (my way of extracting the previous day
+NTPClient to get world time (my way of extracting the previous day's data from CoinDesk)
 - https://randomnerdtutorials.com/esp8266-nodemcu-date-time-ntp-client-server-arduino/
