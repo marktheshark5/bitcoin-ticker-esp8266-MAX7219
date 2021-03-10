@@ -13,6 +13,7 @@ https://user-images.githubusercontent.com/58120125/110657759-f4042080-8175-11eb-
 # Customize to work for you
 - change the GMT time offset to change when historical price data is used from CoinDesk
 - change CoinDesk API to use your currency
+- add in your WiFi SSID and password
 
 # Reference guides I used along the way
 Learning how to set up Wi-Fi and call APIs
